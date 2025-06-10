@@ -110,7 +110,7 @@ pencere = Pencere ()
 sys.exit(app.exec_())
 
 
-# Bana Ulaşın
+# Contact Me
 
 hasankilickaya44@gmail.com
 
